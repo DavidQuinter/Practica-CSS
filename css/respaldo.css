@@ -1,0 +1,101 @@
+.nav-bg{
+    background-color: #ffff; /*Transparente*/
+    font-size: 1.6rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    text-align:right;
+    padding-right: 10%;
+    position: fixed;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+}
+
+/*--------------------------*/
+
+.navegacion{
+    color: var(--grisTexto);
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: inline;
+}
+.boton{
+    color: var(--fondoClaro);
+    background-image: linear-gradient(to bottom right, #3b5bd9, #2545c3);
+    border-style: solid;
+    border-width: .1rem;
+    border-radius: 1rem;
+    padding-top: 1.6rem;
+    padding-bottom: 1.6rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    text-decoration: none;
+    display: inline;
+    left: 0%;
+    right: 0%;
+}
+.leta{
+    background-color: rgba(255, 255, blue, 255, 0.3); /*Transparente*/
+    font-size: 1.6rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    text-align:right;
+    padding-right: 10%;
+    backdrop-filter: blur(1rem) ;
+    position: fixed;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+}
+.log{
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    font-size:x-large ;
+    color: var(--backFuerte);
+    background: linear-gradient(to bottom right, #3b5bd9, #2545c3);
+    -webkit-background-clip: text;
+    color: transparent;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    
+}
+p{
+    color:#6d7b93;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#enfermera{
+    float: right;
+    width: 60rem;
+    background-image: linear-gradient(to bottom right, #3b5bd9, #2545c3);
+
+    right: 0%;
+    top: 10%;
+}
+
+
+
+
+
+/*-------------------------------*/
+#boton{
+    color: var(--fondoClaro);
+    background-image: linear-gradient(to bottom right, #3b5bd9, #2545c3);
+    border-radius: .5rem;
+    padding-top: 1.6rem;
+    padding-bottom: 1.6rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    text-decoration: none;
+}
+#logo{
+    color: var(--backFuerte);
+    background: linear-gradient(to bottom right, #3b5bd9, #2545c3);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size:x-large;
+}
